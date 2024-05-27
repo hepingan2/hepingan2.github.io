@@ -33,9 +33,21 @@
       <link href="/2024/05/27/PASS-Assistant-Demonstration/"/>
       <url>/2024/05/27/PASS-Assistant-Demonstration/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>视频演示地址：<a href="https://www.cnblogs.com/hepingan/p/18180722">Pass Asistant演示视频 - 何平安 - 博客园 (cnblogs.com)</a></p><p>（视频显示不了请下载下面视频链接：<a href="https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/QQ2024428-225915.mp4%EF%BC%89">https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/QQ2024428-225915.mp4）</a></p><p><strong>首页</strong></p><p>该网站拥有基础的登录系统，积分系统，用户管理系统，兑换码系统，订单系统，收藏功能和服务器配置系统等，还有预设角色和模型对话，SD-AI绘画模块，私人GPT预设模块，数字人平台模块等新奇功能。</p><p><img src="https://img2.imgtp.com/2024/05/06/wolrFlHC.png"></p><p><strong>预设角色</strong></p><p><img src="https://img2.imgtp.com/2024/05/06/gxG3nzLq.png"></p><p><strong>数字人平台</strong></p><p>该功能暂未完工，打算基于智能问答模型(GPT3.5&#x2F;GLM-4V)，GPT-SOVITS模型和阿里云函数计算FC应用数字人接口集合而成的在线数字人问答平台，用户能够在预设的数字人模型中与其对话，发送消息后会经过这三个模型加工处理，返回一个对刚刚消息处理的数字人对话视频。该模块平台除了对话功能，还有在线定制数字人功能，用户仅需上传人物头像，一分钟录制语音和模型预设词就可在线合成数字人模型，并且可以将模型分享到该网站。</p><p>由于接口费用过高暂未有能力运营该模块。</p><p><img src="https://img2.imgtp.com/2024/05/06/GJuUFYwZ.png"></p><p>AI<strong>绘画</strong></p><p>采用sd绘画云端接口的调用，本人的接口部署在阿里云函数FC服务器上，地址: sd.hepingan.top，可以设置正向提示词，反向提示词，模型，参考图（即图生图功能），步数，采样器，大小，是否公开的设置。绘画欣赏可随机浏览别人的图和自己的图。</p><p><img src="https://img2.imgtp.com/2024/05/07/pa8wGbpF.png"></p><p><strong>绘画模型管理</strong></p><p>在线新增和删除绘画模型</p><p><img src="https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/PixPin_2024-05-12_00-54-59.png"></p><p>商品管理</p><p><img src="https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/PixPin_2024-05-12_00-54-51.png"></p><p>兑换码管理</p><p><img src="https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/PixPin_2024-05-12_00-54-41.png"></p><p>用户管理</p><p><img src="https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/PixPin_2024-05-12_00-54-21.png"></p><p>用户收藏模块</p><p><img src="https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/PixPin_2024-05-12_00-53-36.png"></p><p>个人中心</p><p><img src="https://img-hepingan.oss-cn-hangzhou.aliyuncs.com/PixPin_2024-05-12_00-53-16.png"></p>]]></content>
       
       
+      <categories>
+          
+          <category> 站内资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PASS-Assistant </tag>
+            
+        </tags>
       
     </entry>
     
